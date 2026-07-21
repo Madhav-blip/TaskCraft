@@ -1,0 +1,5 @@
+PORT_x=5000
+NODE_ENV_x=development
+DATABASE_URI_x=xxxx
+JWT_SECRET_x=xxx
+CLIENT_URL_x=xxx
